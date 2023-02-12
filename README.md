@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-141414?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/malik-valli)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-141414?style=flat-square&logo=instagram&logoColor=white&labelColor=ff69b4)](https://www.instagram.com/malik.valli/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Contact-141414?style=flat-square&logo=telegram&logoColor=white&labelColor=blue)](https://t.me/malik_valli)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Contact-141414?style=flat-square&logo=telegram&logoColor=white&labelColor=blue)](https://t.me/malikvalli)
 
 Hey there 👋
 <br>
