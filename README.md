@@ -6,7 +6,7 @@
 
 Hey there 👋
 <br>
-I’m Malik, a junior mobile app developer and self-proclaimed graphic designer who specializes in Android platform.
+I’m Malik, a Software Engineer and self-proclaimed Graphic Designer who specializes in Mobile Platforms and IoT.
 <br>
 Want to know more about me? Check out [my website-blog.](https://malikvalli.wordpress.com/)
 
