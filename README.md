@@ -1,7 +1,6 @@
 ![GitHub cover](https://user-images.githubusercontent.com/81878781/215018308-f5ae08cf-295d-4b78-8894-c38aea50b30d.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-141414?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/malik-valli)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-141414?style=flat-square&logo=instagram&logoColor=white&labelColor=ff69b4)](https://www.instagram.com/malik.valli/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Contact-141414?style=flat-square&logo=telegram&logoColor=white&labelColor=blue)](https://t.me/malikvalli)
 
 Hey there 👋
