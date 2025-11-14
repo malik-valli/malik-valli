@@ -5,7 +5,7 @@
 
 Hey there 👋
 <br>
-I’m Malik, a Software Engineer and self-proclaimed Graphic Designer who specializes in Mobile Platforms and IoT.
+I’m Malik, a Software Engineer who specializes in multiplatform apps and IoT.
 <br>
 Want to know more about me? Check out [my website-blog.](https://malikvalli.wordpress.com/)
 
