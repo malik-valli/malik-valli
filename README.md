@@ -13,18 +13,28 @@ Want to know more about me? Check out [my website-blog.](https://malikvalli.word
 
 ## 🛠️ Skills
 
-![](https://img.shields.io/badge/Android-Platform-141414?style=flat-square&logo=android&logoColor=white&labelColor=green)
-![](https://img.shields.io/badge/Flutter-SDK-141414?style=flat-square&logo=flutter&logoColor=white&labelColor=blue)
-![](https://img.shields.io/badge/Unity-Engine-141414?style=flat-square&logo=unity&logoColor=white&labelColor=282828)
+![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white&labelColor=512BD4)
+![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=3DDC84)
+![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=02569B)
+![](https://img.shields.io/badge/Unity-white?style=flat-square&logo=unity&logoColor=282828&labelColor=white)
 <br>
-![](https://img.shields.io/badge/Kotlin-Language-141414?style=flat-square&logo=kotlin&logoColor=white&labelColor=blueviolet)
-![](https://img.shields.io/badge/Dart-Language-141414?style=flat-square&logo=dart&logoColor=white&labelColor=blue)
-![](https://img.shields.io/badge/C--sharp-Language-141414?style=flat-square&logo=csharp&logoColor=white&labelColor=blueviolet)
+![](https://img.shields.io/badge/Java-red?style=flat-square&logo=coffeescript&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 <br>
-![](https://img.shields.io/badge/Git-VCS-141414?style=flat-square&logo=git&logoColor=white&labelColor=orange)
+![](https://img.shields.io/badge/Azure_DevOps-blue?style=flat-square)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 <br>
-![](https://img.shields.io/badge/Maths-Skill-141414?style=flat-square&logo=matrix&logoColor=white&labelColor=blue)
-![](https://img.shields.io/badge/Graphic_design-Skill-141414?style=flat-square&logo=materialdesign&logoColor=white&labelColor=ff69b4)
+![](https://img.shields.io/badge/Azure-blue?style=flat-square)
+![](https://img.shields.io/badge/IoT-ff69b4?style=flat-square)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white)
 
 <br>
 
