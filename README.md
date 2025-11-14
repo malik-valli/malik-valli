@@ -1,4 +1,5 @@
-<mark>DISCLAIMER: you won't find my relevant projects here.</mark>
+> [!WARNING]
+> You won't find my relevant projects here.
 
 ![GitHub cover](https://user-images.githubusercontent.com/81878781/215018308-f5ae08cf-295d-4b78-8894-c38aea50b30d.png)
 
@@ -47,3 +48,8 @@ Want to know more about me? Check out [my website-blog.](https://malikvalli.word
 - [Digital nomadism as the point of working in IT](https://malikvalli.wordpress.com/2022/07/12/digital-nomadism-as-the-point-of-working-in-it/)
 - [“Hey buddy, I think you got the wrong door..” – Android Developer’s Roadmap](https://malikvalli.wordpress.com/2022/07/01/hey-buddy-i-think-you-got-the-wrong-door-android-developers-roadmap/)
 <!-- BLOG-POST-LIST:END -->
+
+<br>
+
+> [!WARNING]
+> You won't find my relevant projects here.
